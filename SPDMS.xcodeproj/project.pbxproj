@@ -1,0 +1,98 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		855BAA041C1BC37B002B3DB5 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		855BAA051C1BC387002B3DB5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		855BA9FD1C1BC36C002B3DB5 = {
+			isa = PBXGroup;
+			children = (
+				855BAA081C1BC3DB002B3DB5 /* tests */,
+				855BAA071C1BC3D5002B3DB5 /* scripts */,
+				855BAA061C1BC3C8002B3DB5 /* core */,
+				855BAA051C1BC387002B3DB5 /* README.md */,
+				855BAA041C1BC37B002B3DB5 /* .gitignore */,
+			);
+			sourceTree = "<group>";
+		};
+		855BAA061C1BC3C8002B3DB5 /* core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = core;
+			sourceTree = "<group>";
+		};
+		855BAA071C1BC3D5002B3DB5 /* scripts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = scripts;
+			sourceTree = "<group>";
+		};
+		855BAA081C1BC3DB002B3DB5 /* tests */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = tests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		855BA9FE1C1BC36C002B3DB5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+			};
+			buildConfigurationList = 855BAA011C1BC36C002B3DB5 /* Build configuration list for PBXProject "SPDMS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 855BA9FD1C1BC36C002B3DB5;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		855BAA021C1BC36C002B3DB5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		855BAA031C1BC36C002B3DB5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		855BAA011C1BC36C002B3DB5 /* Build configuration list for PBXProject "SPDMS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				855BAA021C1BC36C002B3DB5 /* Debug */,
+				855BAA031C1BC36C002B3DB5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 855BA9FE1C1BC36C002B3DB5 /* Project object */;
+}
